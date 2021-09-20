@@ -5,19 +5,19 @@ body {
 p {
     color: white;
     font-family: Shanti;
-    font-size: 1.3em;
+    font-size: 1.2em;
     display: inline-block;
     margin:  20px;
 }
 img {
-    margin:70px 0 30px 0;
+    margin: 60px 0 30px 0;
     width: 250px;
 }
 input {
-  text-decoration: none;
-  width: 350px;
+  width: 300px;
   margin: 20px 20px;
   height: 50px;
+  border: none;
   border-radius: 10px;
   font-family: Shanti;
   font-size: 1.3em;
@@ -25,6 +25,7 @@ input {
 }
 
 input:focus {
+    outline: none;
     border: solid 5px #00FFCE;
 }
 
