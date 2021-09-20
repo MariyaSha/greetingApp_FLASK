@@ -4,6 +4,6 @@ Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
-MarkupSafe @ file:///c:/users/mariya/anaconda3/envs/env39/lib/site-packages
+MarkupSafe @ file://C:/users/mariya/anaconda3/envs/env39/lib/site-packages
 Werkzeug==1.0.1
 wincertstore==0.2
